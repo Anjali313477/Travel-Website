@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;700&family=Roboto:weight@100;300;400;700;&display=swap");
+
+.main-btn {
+    display: inline-block;
+    padding: 0.625rem 1.875rem;
+    line-height: 1.5625rem;
+    background-color: var(--primary-color);
+    border: var(--primary-color);
+    color: var(--white-color);
+    font-size: 1rem;
+    font-weight: 600;
+    text-transform: capitalize;
+    box-shadow: 0px 2px 10px -1px rgb(0 0 0 / 19%);
+    --webkit-transition: all .4s ease-out 0s;
+    -o-transition: all .4s ease-out 0s;
+    -moz-transition: all .4s ease-out 0s;
+    transition: all .4s ease-out 0s;
+    border: 1px solid #43121d;
+}
+
+.main-btn:hover {
+    background-color: #43121d;
+    color: white;
+}
+
+
+
+ 
+
+/* home-section*/
+.top-banner {
+    background: url(images/asst1.jpeg)no-repeat;
+    background-size: cover;
+    height: 125vh
+}
+#home .text-center h2,h4{
+    color: #43121d;
+}
