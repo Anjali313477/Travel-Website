@@ -90,3 +90,8 @@ Destination-Section
     height: 250px;
     background-color: transparent;
  }
+ /* upcoming-event */
+ .upcoming-event .row img{
+    height: 200px;
+    background-size: cover;
+ }
