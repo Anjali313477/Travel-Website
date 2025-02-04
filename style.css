@@ -112,3 +112,42 @@ Destination-Section
     height:200px;
     width: 30%;    
 }
+
+
+
+
+/* 
+==========================================
+Service-Section
+==========================================
+ */
+
+ .service-section img{
+    border-radius: 100%;
+    border: 2px solid  #43121d;
+    height: 200px;
+ }
+
+
+ /* 
+ =======================================
+ Contact-Section
+ ======================================= 
+ */
+.contact-section{
+    background-color:#43121d;
+}
+ .contact-section i{
+   font-size:25px;
+   border-radius: 50%;
+   background-color: aliceblue;
+   padding: 12px;
+   color: black;
+ }
+ .contact-section h2{
+    color: white;
+    font-weight: bold;
+ }
+ .copy-right p{
+    color: white;
+ }
